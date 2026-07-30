@@ -3,6 +3,17 @@ aid: firstcash-holdings
 url: https://github.com/api-evangelist/firstcash-holdings
 name: FirstCash Holdings
 type: Index
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 image: https://www.firstcash.com/favicon.ico
 tags:
   - Financial Services
